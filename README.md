@@ -1,2 +1,2 @@
 # libc.klm
-ucLibc for UniApp as KLM
+ucLibc as KLM for kernel-space application

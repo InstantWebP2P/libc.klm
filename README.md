@@ -1,2 +1,2 @@
 # libc.klm
-ucLibc as KLM for kernel-space application
+libC as KLM for kernel-space application
